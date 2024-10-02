@@ -1,0 +1,1 @@
+celery -A celery_worker.app worker --loglevel=info --concurrency=1

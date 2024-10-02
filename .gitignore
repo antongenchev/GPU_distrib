@@ -1,0 +1,10 @@
+.vscode/
+
+.env
+
+venv/
+
+# Ignore Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+*.pyo
